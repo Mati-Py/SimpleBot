@@ -91,7 +91,7 @@ https://www.instagram.com/matiass.zzz
 
 ### `—◉ CREADOR OFC DEL BOT
 
-<a href="https://wa.me/529992095474" Target="blank"><img src="https://img.shields.io/badge/MATIAS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/529992095474" Target="blank"><img src="https://img.shields.io/badge/BRUNO SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 ### `—◉PROPIETARIO DEL BOT`
 
