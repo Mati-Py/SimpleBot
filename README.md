@@ -32,7 +32,7 @@
 
 > apt install imagemagick -y
 
-> git clone https://github.com/BrunoSobrino/SimpleBot
+> git clone https://github.com/Mati-Py/SimpleBot
 
 > cd SimpleBot
 
