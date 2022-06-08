@@ -10,7 +10,6 @@
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 
-```bash
 
 ### `—◉  ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO👇`
 
