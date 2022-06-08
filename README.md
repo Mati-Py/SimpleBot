@@ -12,7 +12,7 @@
 
 ```bash
 
-### `—◉ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+### `—◉ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO👇:
 
 > cd
 
