@@ -81,3 +81,9 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 Esté es un bot con pocos comandos, simplemente es un bot para descargar músicas, videos, hacer stickers y algunos q otros comandos.
 
 Sí te gusta el BOT no olvides darle una ⭐. ¡Gracias!
+
+
+
+### `—◉ INSTAGRAM DE PROPIETARIO`
+
+https://www.instagram.com/matiass.zzz
