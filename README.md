@@ -78,7 +78,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ###  `—◉  NOTA📝
 
-Esté es un bot con pocos comandos, simplemente es un bot para descargar músicas, videos, hacer stickers y algunos q otros comandos.
+¡Hola¡, Esté es un bot con pocos comandos, simplemente es un bot para descargar músicas, videos, hacer stickers y algunos q otros comandos.
 
 Sí te gusta el BOT no olvides darle una ⭐. ¡Gracias!
 
