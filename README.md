@@ -87,3 +87,8 @@ Sí te gusta el BOT no olvides darle una ⭐. ¡Gracias!
 ### `—◉ INSTAGRAM DE PROPIETARIO`
 
 https://www.instagram.com/matiass.zzz
+
+
+### `—◉ CREADOR OFC DEL Y PROPIETARIO DEL BOT`
+
+BrunoSobrino __________ By Mati-Py
